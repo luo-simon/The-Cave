@@ -1,0 +1,1398 @@
+fileFormatVersion: 2
+guid: abdc05e6d1e30c84d8e1b26cd3540ee6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 12_nebula_spritesheet_0
+    21300002: 12_nebula_spritesheet_1
+    21300004: 12_nebula_spritesheet_2
+    21300006: 12_nebula_spritesheet_3
+    21300008: 12_nebula_spritesheet_4
+    21300010: 12_nebula_spritesheet_5
+    21300012: 12_nebula_spritesheet_6
+    21300014: 12_nebula_spritesheet_7
+    21300016: 12_nebula_spritesheet_8
+    21300018: 12_nebula_spritesheet_9
+    21300020: 12_nebula_spritesheet_10
+    21300022: 12_nebula_spritesheet_11
+    21300024: 12_nebula_spritesheet_12
+    21300026: 12_nebula_spritesheet_13
+    21300028: 12_nebula_spritesheet_14
+    21300030: 12_nebula_spritesheet_15
+    21300032: 12_nebula_spritesheet_16
+    21300034: 12_nebula_spritesheet_17
+    21300036: 12_nebula_spritesheet_18
+    21300038: 12_nebula_spritesheet_19
+    21300040: 12_nebula_spritesheet_20
+    21300042: 12_nebula_spritesheet_21
+    21300044: 12_nebula_spritesheet_22
+    21300046: 12_nebula_spritesheet_23
+    21300048: 12_nebula_spritesheet_24
+    21300050: 12_nebula_spritesheet_25
+    21300052: 12_nebula_spritesheet_26
+    21300054: 12_nebula_spritesheet_27
+    21300056: 12_nebula_spritesheet_28
+    21300058: 12_nebula_spritesheet_29
+    21300060: 12_nebula_spritesheet_30
+    21300062: 12_nebula_spritesheet_31
+    21300064: 12_nebula_spritesheet_32
+    21300066: 12_nebula_spritesheet_33
+    21300068: 12_nebula_spritesheet_34
+    21300070: 12_nebula_spritesheet_35
+    21300072: 12_nebula_spritesheet_36
+    21300074: 12_nebula_spritesheet_37
+    21300076: 12_nebula_spritesheet_38
+    21300078: 12_nebula_spritesheet_39
+    21300080: 12_nebula_spritesheet_40
+    21300082: 12_nebula_spritesheet_41
+    21300084: 12_nebula_spritesheet_42
+    21300086: 12_nebula_spritesheet_43
+    21300088: 12_nebula_spritesheet_44
+    21300090: 12_nebula_spritesheet_45
+    21300092: 12_nebula_spritesheet_46
+    21300094: 12_nebula_spritesheet_47
+    21300096: 12_nebula_spritesheet_48
+    21300098: 12_nebula_spritesheet_49
+    21300100: 12_nebula_spritesheet_50
+    21300102: 12_nebula_spritesheet_51
+    21300104: 12_nebula_spritesheet_52
+    21300106: 12_nebula_spritesheet_53
+    21300108: 12_nebula_spritesheet_54
+    21300110: 12_nebula_spritesheet_55
+    21300112: 12_nebula_spritesheet_56
+    21300114: 12_nebula_spritesheet_57
+    21300116: 12_nebula_spritesheet_58
+    21300118: 12_nebula_spritesheet_59
+    21300120: 12_nebula_spritesheet_60
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40cdbe8f5b1b5b4dbddfb0e989a7bc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757c3a2ba6653a14595de88515582abc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6c66fd052cea849b2cff27ac948b88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9deca97287a26ff4db283c361b62e03c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b915d19796715e40923804bc3da63d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722a5e75aca08f34ab10f03b10dd02e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4443601f774614cb800808174a72de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bbaba38b796c74aad07be338c367c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4101e7b7285715f48ae7b2ed7a5eea33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48280d5ea1f5a744a8a327608f6765b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbc8d27a80d81b4eaf64f69ffaa4cb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831b3535a7ad3df4e93b3c63da28f799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150a90d8dc6ea7d42b8daecc13075b25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bc1b321ed6d8245835a6a588a0453e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ebfb6e94e8bd2469e68e144ca80501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28013a63d4d128d4186f47538545ebf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88616c0a6e9131f4ea4917a0b15b0aa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b3ac04fb6a5eb4ab0faa3e0543acb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834f2ec7005bc104db64bb3f783bfd3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ab83148df5bc04f9d87a69f82bcb45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09428196a1df9d4abdfe94bc045fae6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d203289444d339429aed9f1265b6738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a0002893ab2654e9f01eb364fdf711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb4cc64a9bc6754aa84c41d80763f0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d049242ef40dc904c93b84db77c79c9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c2bdee5dd146646bc98fa5fba983da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3eed05c557876448aec800ce8b4fe30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399748d81dd9a6c4a9b970cc910dbba3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8ba850d1f9a9a4ca9e07439b3b67c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9343ed44c842b204788c343be67afb3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c64d5a63d728bc4b9d5ac9d108a3487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aa99b9a2dfcc749a1862c3d01c0f3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babe31b819579c44ea28270a71e16214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef1e55a6d6564e4e8365db1454fbae7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af513bbf5f25d1f429c9f689c10e876f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fa3843d2baafa4c9a895053cc1658d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7444605640343d644b54aa0cb437cdec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e07d34739cca3478e38e65d0c67a7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d759a95f1046ee4f98cfd41683c3710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97794145add3f454cbd9c4752fcb3567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62585cdb27b8a04b840c58a61b72907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abd63055b999a9409dd54000e5dc468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e8a6f9226918e4f98589bfbacd34ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85ee1a2d4eb53848aea4ac2488c55e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14db57e713be65c4ea9a2e7bbb5a3742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7abc77fa79f814ba2e9cb35da19d73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00920f6aa23043e48851c6b11261da04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f20fe41206becd478be8bceaff6a632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7c66ce97126144a876145d4ece056a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfe322a4a3a44c4ea5e86d64f772ba3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db20c16d73347ec49a83ff96af97dab5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479bcff4a2640734f89da6f6284c9253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5536760bac63588478b28320a9e17738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1337d7e8dae37b47a741fcaad359418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78746a0b79df6fa4bb3c0e02ddecd580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811862d1953beb34b92ded93de3e1b35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2561e2eb760d5ea4eacf1246b54ca82c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3278642ade784a74c8ff306b673f8f34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19602ab18336a4c43a91eed7239c8e66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80e0b35d28187c408f1dce24808555a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_nebula_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4aad5065e67ac246a3a37f6b5de0ebf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1dcb07337b33b4b4091a32b25cad05c0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

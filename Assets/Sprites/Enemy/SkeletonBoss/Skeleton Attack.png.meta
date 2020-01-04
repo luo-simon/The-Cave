@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: c7e91d8eade35f741b6d5e7652bf1ff3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Skeleton Attack_0
+    21300002: Skeleton Attack_1
+    21300004: Skeleton Attack_2
+    21300006: Skeleton Attack_3
+    21300008: Skeleton Attack_4
+    21300010: Skeleton Attack_5
+    21300012: Skeleton Attack_6
+    21300014: Skeleton Attack_7
+    21300016: Skeleton Attack_8
+    21300018: Skeleton Attack_9
+    21300020: Skeleton Attack_10
+    21300022: Skeleton Attack_11
+    21300024: Skeleton Attack_12
+    21300026: Skeleton Attack_13
+    21300028: Skeleton Attack_14
+    21300030: Skeleton Attack_15
+    21300032: Skeleton Attack_16
+    21300034: Skeleton Attack_17
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 43
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4b563bb59eede42bd2f9b623d1de9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 43
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088d514394de8fd46b84d8dcc256a927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 43
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678de9184e622064280189da72eb0dff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 43
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845500e243981d7479a3c95c467f79e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 43
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c21fab3dcf820a47a3b26d399affbda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 43
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e71e8ed9b96a7459e91566b0bdd1e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 43
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5029d045ac3bc42819f868b675f9ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 43
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df29e79e9112ca24b9deffef1b0a6326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 43
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495557c3fbe13674fb9288a77394949d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 43
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f833684f5f31b25488f858545f9b51b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 43
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a3393731ccca046893fd1b5e1b11d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_11
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 0
+        width: 43
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767d32821b754434884d9bd36d78ab14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_12
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 43
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008242545e4f8c348bf48038f754f0dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_13
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 0
+        width: 43
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797dcb551841b784e94ac2b8642830e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_14
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 0
+        width: 43
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c06c78b8a2e7241af43df58eec89de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_15
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 0
+        width: 43
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c0710803ec02c4cb406a94813c726c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_16
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 43
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a65a1819b065594f908cbecdcf04d87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_17
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 0
+        width: 43
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce2f99a78824cf46a81399c7b023768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ffbce4a1af466d54bb7e71814c9eace3
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
